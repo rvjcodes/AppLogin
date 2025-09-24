@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AccountManagement</string>
+    <string name="title_login">Login</string>
+    <string name="hint_username_email">Username or Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_login">LOGIN</string>
+    <string name="action_sign_up">SIGN UP</string>
+
+    <string name="title_signup">Create Account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="action_register">REGISTER</string>
+    <string name="action_back_to_login">BACK TO LOGIN</string>
+
+    <string name="msg_login_success">Login successful</string>
+    <string name="msg_login_failed">Invalid credentials</string>
+    <string name="msg_register_success">Account created</string>
+    <string name="msg_password_mismatch">Passwords do not match</string>
+    <string name="msg_email_required">Email is required</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="action_logout">Logout</string>
+</resources>
